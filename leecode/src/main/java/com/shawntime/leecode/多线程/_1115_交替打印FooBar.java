@@ -1,4 +1,4 @@
-package leecode.多线程;
+package com.shawntime.leecode.多线程;
 
 import java.util.concurrent.Semaphore;
 
